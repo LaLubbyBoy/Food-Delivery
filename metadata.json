@@ -1,0 +1,6 @@
+{
+  "name": "BiteDash - Food Delivery & Restaurant Marketplace",
+  "description": "A complete multi-vendor food delivery platform with customer ordering, restaurant management, rider delivery tracking, admin controls, and AI features.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
